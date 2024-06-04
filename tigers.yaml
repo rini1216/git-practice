@@ -14,4 +14,4 @@ members:
 
 fetch: this
 new: branch
-signed: yes
+signed: yes real signed
